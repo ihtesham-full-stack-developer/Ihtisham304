@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ihtisham304
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in javascript Full Stack
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m MERN Stack Developer
 - 📫 How to reach me khihtisham304@gmail.com
 
