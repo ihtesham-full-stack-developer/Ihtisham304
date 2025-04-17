@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ihtisham304
+- 👋 Hi, I’m @Ihtisham
 - 👀 I’m interested in javascript Full Stack
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m Full Stack Developer
