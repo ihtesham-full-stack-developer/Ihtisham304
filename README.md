@@ -1,4 +1,4 @@
-# Ihtisham ul Haq — Full Stack Developer, Web & Mobile App Engineer, MERN Stack Specialist
+# Ihtisham ul Haq Full Stack Developer, Web & Mobile App Engineer, MERN Stack Specialist
 
 ## Who is Ihtisham ul Haq?
 
